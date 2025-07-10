@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chabchoubmedaziz-mcp-crypto-stock-news-badge.png)](https://mseep.ai/app/chabchoubmedaziz-mcp-crypto-stock-news)
+
 # 📊 📈 Stock & Crypto MCP Server with Local AI Agent
 
 A modular, agent-based system for real-time stock prices, cryptocurrency news, and financial analysis using [MCP (Multi-Component Protocol)](https://modelcontextprotocol.io/introduction) servers, LangGraph agents, and LLMs (Ollama + Qwen3).
